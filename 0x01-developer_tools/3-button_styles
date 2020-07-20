@@ -32,8 +32,3 @@ a {
     text-decoration: none;
     background-color: transparent;
 }
-user agent stylesheet
-a:-webkit-any-link {
-    color: -webkit-link;
-    cursor: pointer;
-}

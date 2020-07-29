@@ -10,11 +10,11 @@ a {
     color: var(--text-color);
 }
 
-.visually-hidden{
+.visually-hidden {
     color: none;
 }
 
-.card-category h1{
+.card-category {
     color: var(--color-primary);
 }
 

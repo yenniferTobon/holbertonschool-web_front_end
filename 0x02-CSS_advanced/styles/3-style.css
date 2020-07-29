@@ -11,14 +11,14 @@ a {
 }
 
 .visually-hidden{
-    display: none;
+    color: none;
 }
 
 .card-category h1{
     color: var(--color-primary);
 }
 
-.section-taglin {
+.section-tagline {
     color: var(--color-primary);
 }
 
